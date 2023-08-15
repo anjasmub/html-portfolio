@@ -50,6 +50,10 @@ div p, #dev1 h2, #dev1 a, div ul {
         width: 150px;
     }
 
+    div {
+        margin-bottom: 65px;
+    }
+
     #title {
         width: 110px;
         height: 30px;
